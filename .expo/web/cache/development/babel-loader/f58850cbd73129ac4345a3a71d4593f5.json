@@ -1,0 +1,1 @@
+{"ast":null,"code":"export * from \"./GridV\";","map":{"version":3,"sources":["C:/Users/admin/Desktop/vlinderAssesment/footerts/src/index.ts"],"names":[],"mappings":"AAAA","sourcesContent":["export * from './GridV';\n\n"]},"metadata":{},"sourceType":"module"}
